@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Stories</string>
+    <string name="signup">Sign Up</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="dontHaveAccount">Dont\'t have an account?</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="camera_x">Camera</string>
+    <string name="empty_image_warning">Please fill the picture first.</string>
+    <string name="haveAccount">Already have an account?</string>
+    <string name="menu">menu</string>
+    <string name="story_picture">Story Picture</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">Stories Maps</string>
+    <string name="retry">Retry</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
