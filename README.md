@@ -1,1 +1,1 @@
-A project about Story App appication to full fill the Bangkit Academy assignment on Dicoding Course.
+A project about Story Application to full fill the Bangkit Academy assignment on Dicoding Course. On this application user can post their live update story in form of photo and text. Moreover, they also can share their location.
